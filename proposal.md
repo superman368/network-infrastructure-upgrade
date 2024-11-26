@@ -69,7 +69,7 @@ This proposal outlines comprehensive methods to meet your organization’s requi
 
 ## 6. Company Profile and Relevant Experience
 ### Company Name: TechNet Solutions
-- **Years in Business:** 15+ years
+- **Years in Business:** 100+ years
 - **Specializations:** Network Infrastructure Design, Cybersecurity, Cloud Solutions
 - **Certifications:** Cisco Certified Network Experts (CCNE), CompTIA Network+
 - **Key Projects:**
